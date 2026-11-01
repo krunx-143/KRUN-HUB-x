@@ -1,8 +1,3 @@
--- =========================================================
---  PROJECT: KRUN! HUB - DURIO EDITION (COMPACT & TP BYPASS)
---  GAME: [อัพเดท] สวนทุเรียน 🍈
--- =========================================================
-
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
@@ -65,7 +60,7 @@ local currentLang = "TH"
 local textRegistry = {}
 
 local LangDict = {
-    SubTitle = { TH = "สวนทุเรียน By KRUN!", EN = "Durian Garden By KRUN!" },
+    SubTitle = { TH = "สวนทุเรียน By 126!B HUB", EN = "Durian Garden By 126!B HUB!" },
     Tab_Farming = { TH = "ทำฟาร์ม", EN = "Farming" },
     Tab_Harvest = { TH = "เก็บเกี่ยว/ขาย", EN = "Harvest/Sell" },
     Tab_Teleport = { TH = "วาร์ป (Bypass)", EN = "Teleport (Bypass)" },
