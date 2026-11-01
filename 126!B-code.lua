@@ -1,8 +1,3 @@
--- =========================================================
---  PROJECT: 126!B HUB - DURIO EDITION
---  GAME: [อัพเดท] สวนทุเรียน 🍈
--- =========================================================
-
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
